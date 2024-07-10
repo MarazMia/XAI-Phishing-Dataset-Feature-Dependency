@@ -1,11 +1,11 @@
 # Research Insights
 i) Comparing features' contribution across various dataset to detect variation among them.
 <br />
-2) Impact of feature value in model's prediction throughout the different datasets.
+ii) Impact of feature value in model's prediction throughout the different datasets.
 <br />
-3) Cross check accuracy with training model on a dataset and testing on different dataset.
+iii) Cross check accuracy with training model on a dataset and testing on different dataset.
 <br />
-4) Generate outcomes and suggestion on making future dataset agnostic model and monolithic feature list in terms on model impqacting.
+iv) Generate outcomes and suggestion on making future dataset agnostic model and monolithic feature list in terms on model impqacting.
 
 # Original dataset link
 Dataset 1 : https://data.mendeley.com/datasets/72ptz43s9v/1
