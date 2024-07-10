@@ -13,6 +13,6 @@ Dataset 1 : https://data.mendeley.com/datasets/72ptz43s9v/1
 Dataset2 : https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection
 
 # Folder Structure
-Dataset specific feature analysis with SHAP code /Code/XAI_Phishing.ipynb
+Dataset specific feature analysis with SHAP code : /Code/XAI_Phishing.ipynb
 <br />
-Merged dataset feature analysis with SHAP code /Code/common_features_model.ipynb
+Merged dataset feature analysis with SHAP code : /Code/common_features_model.ipynb
